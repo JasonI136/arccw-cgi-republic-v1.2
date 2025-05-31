@@ -44,8 +44,8 @@ SWEP.BodyDamageMults = {
     [HITGROUP_RIGHTLEG] = 0.75,
 }
 
-SWEP.Damage = 160
-SWEP.DamageMin = 100
+SWEP.Damage = 200
+SWEP.DamageMin = 140
 SWEP.RangeMin = 0
 SWEP.Range = 900
 SWEP.Penetration = 20
