@@ -195,7 +195,7 @@ SWEP.Attachments = {
         },
         CorrectiveAng = Angle(0, 180, 0),
         CorrectivePos = Vector(0, 0, 0),
-    }
+    },
     -- {
     --     PrintName = "Muzzle",
     --     DefaultAttName = "None",

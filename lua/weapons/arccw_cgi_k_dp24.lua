@@ -69,9 +69,6 @@ SWEP.Delay = 60 / 820
 SWEP.Num = 1
 SWEP.Firemode = 2
 SWEP.Firemodes = {
-    -- {
-	-- 	Mode = 2,
-    -- },
     {
         Mode = -3,
         PostBurstDelay = 0.35,
@@ -82,7 +79,7 @@ SWEP.Firemodes = {
         Mode = 0,
     },
     {
-        Mode = 1,
+        Mode = 2,
         Mult_RPM = 0.3,
     },
 }
