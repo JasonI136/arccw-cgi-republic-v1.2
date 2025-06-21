@@ -18,7 +18,9 @@ att.AdditionalSights = {
         Pos = Vector(0, 12, -1.455),
         Ang = Angle(0, 0, 0),
         Magnification = 1.5,
-        IgnoreExtra = true
+        IgnoreExtra = true,
+        SwitchToSound = "arccw/kraken/interaction/zoom-in.wav",
+        SwitchFromSound = "arccw/kraken/interaction/zoom-out.wav"
     },
 }
 

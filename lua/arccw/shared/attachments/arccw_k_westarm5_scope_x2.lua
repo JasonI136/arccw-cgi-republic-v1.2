@@ -18,7 +18,9 @@ att.AdditionalSights = {
         Pos = Vector(0, 12, -1.43061),
         Ang = Angle(0, 0, 0),
         Magnification = 2,
-        IgnoreExtra = true
+        IgnoreExtra = true,
+        SwitchToSound = "arccw/kraken/interaction/zoom-in.wav",
+        SwitchFromSound = "arccw/kraken/interaction/zoom-out.wav"
     },
 }
 
@@ -30,6 +32,7 @@ att.HolosightNoFlare = true
 att.HolosightSize = 10.5
 att.HolosightBone = "holosight"
 att.HolosightPiece = "models/arccw/kraken/cgi_galactic/cgi_westarm5_sniper_scope_hsp.mdl"
+
 
 att.Colorable = true
 att.HolosightColor = Color(255, 50, 50)
