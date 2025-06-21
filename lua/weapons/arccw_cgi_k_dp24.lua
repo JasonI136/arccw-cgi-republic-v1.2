@@ -63,7 +63,7 @@ SWEP.Primary.ClipSize = 36
 
 SWEP.RecoilSide = 0.005
 SWEP.RecoilRise = 0.015
-SWEP.Recoil = 0.05
+SWEP.Recoil = 0.14
 
 SWEP.Delay = 60 / 820
 SWEP.Num = 1
@@ -162,10 +162,6 @@ SWEP.CustomizeAng = Angle(6.8, 30.7, 10.3)
 
 SWEP.HolsterPos = Vector(4, -3, 2)
 SWEP.HolsterAng = Vector(-15, 30, -15)
-
-SWEP.Recoil = 0.35 -- Keep this for actual recoil mechanics
-SWEP.RecoilSide = 0.15
-SWEP.RecoilRise = 0.35
 
 SWEP.VisualRecoilMult = 0 -- Disable visual recoil (camera shake)
 SWEP.RecoilPunch = 0 -- Disable view punch
