@@ -213,7 +213,8 @@ SWEP.Attachments = {
     {
         PrintName = "Barrel",
         DefaultAttName = "None",
-        Slot = {"m5_barrel_tesla", "m5_barrel_melter", "m5_barrel_heavy"},
+        -- Slot = {"m5_barrel_tesla", "m5_barrel_melter", "m5_barrel_heavy"},
+        Slot = {"m5_barrel_tesla", "m5_barrel_heavy"}, 
     },
     {
         PrintName = "Underbarrel", 
